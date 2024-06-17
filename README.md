@@ -1,2 +1,2 @@
-# flutter-quickstarts
+# 🪶📱 Flutter | Quickstarts 🪶📱
 🪶📱Flutter | Quickstarts 🪶📱
